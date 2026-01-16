@@ -102,7 +102,6 @@ Estudiante: A, Nota: 0.0
 Estudiante: B, Nota: 2.0
 Estudiante: C, Nota: 8.0
 Estudiante: D, Nota: 10.0
-
 ```
 
 #### Ejercicio 5
