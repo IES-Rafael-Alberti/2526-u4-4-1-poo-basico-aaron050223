@@ -66,12 +66,52 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 #### Ejercicio 1
 
-- **Entrada 1:**
+- **Entrada:**
   https://github.com/IES-Rafael-Alberti/2526-u4-4-1-poo-basico-aaron050223/blob/d3a471f3ecc958a003c92ff9122b52645b543299/src/main/kotlin/ejercicio1/main.kt#L2-L5
-- **Salida Esperada 1:**
+- **Salida Esperada:**
 ```
 Saldo Insuficiente
 Saldo Actual >> 10.0
+```
+
+#### Ejercicio 2
+
+- **Entrada:**
+  https://github.com/IES-Rafael-Alberti/2526-u4-4-1-poo-basico-aaron050223/blob/48fe4bd7b29c719324923edd55ef62db654a1265/src/main/kotlin/ejercicio2/main.kt#L3-L7
+- **Salida Esperada:**
+```
+Marca: Citroen, Modelo: Picasso, Kilometraje: 100.0
+```
+
+#### Ejercicio 3
+
+- **Entrada:**
+  https://github.com/IES-Rafael-Alberti/2526-u4-4-1-poo-basico-aaron050223/blob/6f448d7c5a010024c5c9bd232029ccb7d4c1f3c2/src/main/kotlin/ejercicio3/main.kt#L3-L10
+- **Salida Esperada:**
+```
+Ponle nombre al libro chaval
+```
+
+#### Ejercicio 4
+
+- **Entrada:**
+  https://github.com/IES-Rafael-Alberti/2526-u4-4-1-poo-basico-aaron050223/blob/48fe4bd7b29c719324923edd55ef62db654a1265/src/main/kotlin/ejercicio4/main.kt#L3-L12
+- **Salida Esperada:**
+```
+Estudiante: A, Nota: 0.0
+Estudiante: B, Nota: 2.0
+Estudiante: C, Nota: 8.0
+Estudiante: D, Nota: 10.0
+
+```
+
+#### Ejercicio 5
+
+- **Entrada:**
+  https://github.com/IES-Rafael-Alberti/2526-u4-4-1-poo-basico-aaron050223/blob/6f448d7c5a010024c5c9bd232029ccb7d4c1f3c2/src/main/kotlin/ejercicio5/main.kt#L3-L10
+- **Salida Esperada:**
+```
+Precio tiene que ser positivo
 ```
 
 ## Documentación Adicional
