@@ -13,15 +13,15 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 ## Identificación de la Actividad
 
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** 4.1: Ejercicios POO basico (RA2.b...i)
+- **Módulo:** [Nombre del módulo] `PROG`
+- **Unidad de Trabajo:** Unidad 4
+- **Fecha de Creación:** 16/01/2026
+- **Fecha de Entrega:** 16/01/2026
 - **Alumno(s):**
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** Aarón Gallardo Canto
+  - **Correo electrónico:** agalcan1410g.educaand.es
+  - **Iniciales del Alumno/Grupo:** AGC
 
 ## Descripción de la Actividad
 
@@ -31,22 +31,17 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 1. **Requisitos Previos:**
 
-   - [Lenguaje de programación y versión]
-   - [Entorno de desarrollo o dependencias necesarias]
+   - Kotlin
+   - IntelliJ IDEA
 2. **Pasos para Compilar el Código:**
 
    ```bash
-   [Comando para compilar el código]
+   kotlinc
    ```
 3. **Pasos para Ejecutar el Código:**
 
    ```bash
-   [Comando para ejecutar la aplicación]
-   ```
-4. **Ejecución de Pruebas:**
-
-   ```bash
-   [Comandos para ejecutar pruebas, si las hubiera]
+   java
    ```
 
 ## Desarrollo de la Actividad
@@ -57,40 +52,30 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 ### Código Fuente
 
-[Aquí se incluirá un enlace directo a los archivos de código fuente en el repositorio, por ejemplo, si se está usando GitHub: `src/main.kt` o algún enlace directo.]
-
-[Si hay varios ejercicios, habrá una documentación, por cada uno de los ejercicios.]
-[Por cada ejercicio, habrá enlaces embebidos de código a las clases principales y programa principal `main` ]
+[Ejercicio 1 | Clase 'CuentaBancaria'](src/main/kotlin/ejercicio1/CuentaBancaria.kt)
+[Ejercicio 2 | Clase 'Vehiculo'](src/main/kotlin/ejercicio2/Vehiculo.kt)
+[Ejercicio 3 | Clase 'Libro'](src/main/kotlin/ejercicio3/Libro.kt)
+[Ejercicio 4 | Clase 'Estudiante'](src/main/kotlin/ejercicio4/Estudiante.kt)
+[Ejercicio 5 | Clase 'Producto'](src/main/kotlin/ejercicio5/Producto.kt)
 
 ### Ejemplos de Ejecución
 
-- **Entrada 1:** Descripción de la entrada y valor de prueba.
-- **Salida Esperada 1:** Explicación de la salida esperada y el resultado de la prueba.
+#### Ejercicio 1
 
-### Resultados de Pruebas
-
-[Aquí se detallará cómo se ha verificado la funcionalidad del código, incluyendo resultados de pruebas automatizadas o manuales, en caso de que las haya.]
+- **Entrada 1:**
+  https://github.com/IES-Rafael-Alberti/2526-u4-4-1-poo-basico-aaron050223/blob/d3a471f3ecc958a003c92ff9122b52645b543299/src/main/kotlin/ejercicio1/main.kt#L2-L5
+- **Salida Esperada 1:**
+```
+Saldo Insuficiente
+Saldo Actual >> 10.0
+```
 
 ## Documentación Adicional
 
 - **Manual de Usuario:** [Enlace a la documentación del usuario, si existe]
 - **Autorización de Permisos:** Verificar que el profesor tenga permisos de lectura en el repositorio para revisar el código.
 
-## Conclusiones
-
-[Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
-
 ## Referencias y Fuentes
 
-[Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
-
-### Notas Adicionales:
-
-1. **Nombres de Archivos y Repositorios:**
-   - Asegúrate de que el nombre del archivo o repositorio siga la estructura definida: `XXX-idActividad-Iniciales`.
-2. **Permisos:**
-   - Verifica que el profesor tenga los permisos necesarios para acceder al repositorio o documento.
-3. **Formato:**
-   - Si se entrega en formato PDF o Google Docs, asegúrate de cumplir con el mínimo y máximo de folios establecidos.
-4. **Compilación y Ejecución:**
-   - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
+[Gemini](https://gemini.google.com/app?hl=es-ES)
+[Revilofe](https://revilofe.github.io/section1/u04/teoria/PROG-U4.3.-kotlinPOO/)
