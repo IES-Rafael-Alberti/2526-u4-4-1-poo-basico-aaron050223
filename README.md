@@ -25,7 +25,7 @@ Apóyate en los siguientes recursos para realizar la práctica:
 
 ## Descripción de la Actividad
 
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
+Actividad para practicar la POO
 
 ## Instrucciones de Compilación y Ejecución
 
@@ -45,10 +45,6 @@ Apóyate en los siguientes recursos para realizar la práctica:
    ```
 
 ## Desarrollo de la Actividad
-
-### Descripción del Desarrollo
-
-[Explicación de cómo se ha abordado el desarrollo de la actividad, incluyendo las decisiones de diseño, estructura del código y enfoque de resolución de problemas. Se recomienda adjuntar diagramas o capturas de pantalla si es necesario.]
 
 ### Código Fuente
 
@@ -112,11 +108,6 @@ Estudiante: D, Nota: 10.0
 ```
 Precio tiene que ser positivo
 ```
-
-## Documentación Adicional
-
-- **Manual de Usuario:** [Enlace a la documentación del usuario, si existe]
-- **Autorización de Permisos:** Verificar que el profesor tenga permisos de lectura en el repositorio para revisar el código.
 
 ## Referencias y Fuentes
 
